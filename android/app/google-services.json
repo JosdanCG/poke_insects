@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "941309615344",
+    "project_id": "poke-insects",
+    "storage_bucket": "poke-insects.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941309615344:android:45bc70821953ec117f3635",
+        "android_client_info": {
+          "package_name": "com.example.poke_insects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941309615344-0hnmb7h9dnnafrv810j8921q719jn4of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poke_insects",
+            "certificate_hash": "6887b5df27c78267cc1e901314f984a4d16ab653"
+          }
+        },
+        {
+          "client_id": "941309615344-vvvkclgr1mltege39q5n9ui4msh2gq72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1GTKuWWLaMZwTo_JvCMSWPfsQMYAxDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941309615344-vvvkclgr1mltege39q5n9ui4msh2gq72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
